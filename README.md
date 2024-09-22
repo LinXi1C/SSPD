@@ -78,7 +78,7 @@ python -u test.py
 Based on [LayerCAM](https://github.com/PengtaoJiang/LayerCAM-jittor).
 
 <div align="center">
-  <img width="80%" alt="SSPD illustration" src=".github/cam.png">
+  <img width="70%" alt="SSPD illustration" src=".github/cam.png">
 </div>
 
 
