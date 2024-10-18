@@ -84,13 +84,14 @@ Based on [LayerCAM](https://github.com/PengtaoJiang/LayerCAM-jittor).
 
 ## Citation
 ```
-@article{SSPD,
-  title={Self-Similarity Prior Distillation for Unsupervised Remote Physiological Measurement},
+@ARTICLE{SSPD,
   author={Zhang, Xinyu and Sun, Weiyu and Lu, Hao and Chen, Ying and Ge, Yun and Huang, Xiaolin and Yuan, Jie and Chen, Yingcong},
-  journal={IEEE Transactions on Multimedia},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Self-Similarity Prior Distillation for Unsupervised Remote Physiological Measurement}, 
   year={2024},
-  publisher={IEEE},
-  doi={10.1109/TMM.2024.3405720},
-  note={early access},
-}
+  volume={26},
+  number={},
+  pages={10290-10305},
+  keywords={Physiology;Computational modeling;Noise;Task analysis;Heart beat;Estimation;Photoplethysmography;Remote photoplethysmography (rPPG);multimedia applications;self-similarity;unsupervised learning;self-distillation},
+  doi={10.1109/TMM.2024.3405720}}
 ```
